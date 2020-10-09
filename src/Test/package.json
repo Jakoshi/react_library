@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "version": "1.0.4",
+  "name": "@kressewebagentur/test",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "f9bf5528f9d44f5d90b8e8cae2cd9067915b85d2"
+  "gitHead": "0eb7870ef2034385db6760e99a5258124b3d8d96"
 }
