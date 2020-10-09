@@ -1,6 +1,6 @@
 {
-  "name": "slider",
-  "version": "1.0.1",
+  "name": "@kressewebagentur/mySlider",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lerna": "^3.22.1"
-  }
+  },
+  "gitHead": "7ac5b7008f20949d5bb5e15410f8d68abb16d3e7"
 }
