@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "7ac5b7008f20949d5bb5e15410f8d68abb16d3e7"
+  "gitHead": "f9bf5528f9d44f5d90b8e8cae2cd9067915b85d2"
 }
